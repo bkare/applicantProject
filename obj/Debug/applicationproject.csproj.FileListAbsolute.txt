@@ -1,0 +1,8 @@
+C:\Users\Bkare\Desktop\uskomAppShowN\applicationproject\applicationproject\bin\Debug\applicationproject.exe
+C:\Users\Bkare\Desktop\uskomAppShowN\applicationproject\applicationproject\bin\Debug\applicationproject.pdb
+C:\Users\Bkare\Desktop\uskomAppShowN\applicationproject\applicationproject\obj\Debug\applicationproject.csprojResolveAssemblyReference.cache
+C:\Users\Bkare\Desktop\uskomAppShowN\applicationproject\applicationproject\obj\Debug\applicationproject.Form1.resources
+C:\Users\Bkare\Desktop\uskomAppShowN\applicationproject\applicationproject\obj\Debug\applicationproject.Properties.Resources.resources
+C:\Users\Bkare\Desktop\uskomAppShowN\applicationproject\applicationproject\obj\Debug\applicationproject.csproj.GenerateResource.Cache
+C:\Users\Bkare\Desktop\uskomAppShowN\applicationproject\applicationproject\obj\Debug\applicationproject.exe
+C:\Users\Bkare\Desktop\uskomAppShowN\applicationproject\applicationproject\obj\Debug\applicationproject.pdb
